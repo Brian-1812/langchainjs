@@ -1,0 +1,1 @@
+{"version":3,"file":"docs_constructor_callbacks.js","sourceRoot":"","sources":["../../src/callbacks/docs_constructor_callbacks.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,qBAAqB,CAAC;AAC7D,OAAO,EAAE,MAAM,EAAE,MAAM,uBAAuB,CAAC;AAE/C,MAAM,GAAG,GAAG,IAAI,MAAM,CAAC;IACrB,WAAW,EAAE,CAAC;IACd,8DAA8D;IAC9D,SAAS,EAAE,CAAC,IAAI,sBAAsB,EAAE,CAAC;CAC1C,CAAC,CAAC"}

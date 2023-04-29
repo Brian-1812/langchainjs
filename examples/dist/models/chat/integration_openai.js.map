@@ -1,0 +1,1 @@
+{"version":3,"file":"integration_openai.js","sourceRoot":"","sources":["../../../src/models/chat/integration_openai.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,8BAA8B,CAAC;AAE1D,MAAM,KAAK,GAAG,IAAI,UAAU,CAAC;IAC3B,WAAW,EAAE,GAAG;IAChB,YAAY,EAAE,cAAc,EAAE,oDAAoD;CACnF,CAAC,CAAC"}
